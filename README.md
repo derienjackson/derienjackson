@@ -6,13 +6,13 @@
 - <b>Form Validator</b>
   - [Checks for various username, pasword, and date of birth requirements for a login page]
   
-  - <b>Movie Seat Booker</b>
+- <b>Movie Seat Booker</b>
   - [Enables the user to book movie tickets while saving seat selections and pricing to local storage]
   
-  - <b>Meal Finder</b>
+- <b>Meal Finder</b>
   - [Saves recipes input by user and searches for meal recipes using API based on search criteria]
-  
-  - <b>Expense Tracker</b>
+   
+- <b>Expense Tracker</b>
   - [Calculates input income/expenses and saves to local storage]
 
 <h2> 🤳 Connect with me:</h2>
