@@ -3,16 +3,16 @@
 
 <h2> Software Development Projects:</h2>
 
-- <b>Form Validator</b>
+- <b>Registration Page</b>
   - [Checks for various username, pasword, and date of birth requirements for a login page]
   
-- <b>Movie Seat Booker</b>
+- <b>Book Movie Ticket </b>
   - [Enables the user to book movie tickets while saving seat selections and pricing to local storage]
   
-- <b>Meal Finder</b>
+- <b>Find/Save Meal Recipes</b>
   - [Saves recipes input by user and searches for meal recipes using API based on search criteria]
    
-- <b>Expense Tracker</b>
+- <b>Budget Buddy</b>
   - [Calculates input income/expenses and saves to local storage]
 
 <h2> 🤳 Connect with me:</h2>
