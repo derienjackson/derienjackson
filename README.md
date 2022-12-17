@@ -6,7 +6,7 @@
 - <b>Registration Page</b>
   - [Checks for various username, pasword, and date of birth requirements for a login page]
   
-- <b>Book Movie Ticket </b>
+- <b>Book Movie Tickets </b>
   - [Enables the user to book movie tickets while saving seat selections and pricing to local storage]
   
 - <b>Find/Save Meal Recipes</b>
