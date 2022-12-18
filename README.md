@@ -14,6 +14,9 @@
    
 - [<b>Budget Buddy</b>](https://github.com/derienjackson/BudgetBuddy)
   - Calculates input income/expenses and saves to local storage
+ 
+- [<b>Crypto Sorter</b>](https://github.com/derienjackson/CryptoSorter)
+  - Checks if items are sorted correctly each time the button is clicked 
 
 <h2> 🤳 Connect with me:</h2>
 
