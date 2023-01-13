@@ -10,13 +10,16 @@
   - Enables the user to book movie tickets while saving seat selections and pricing to local storage
   
 - [<b>Food Fetcher</b>](https://github.com/derienjackson/FoodFetcher)
-  - Saves recipes input by user and searches for meal recipes using API based on search criteria
+  - Searches for meal recipes using API based on search criteria
    
 - [<b>Budget Buddy</b>](https://github.com/derienjackson/BudgetBuddy)
   - Calculates input income/expenses and saves to local storage
  
 - [<b>Crypto Sorter</b>](https://github.com/derienjackson/CryptoSorter)
   - Checks if items are sorted correctly each time the button is clicked 
+
+- [<b>Restaurant Search</b>](https://github.com/derienjackson/RestaurantSearch)
+  -  Searches for restaurants and displays photos of the restaurant once clicked 
 
 <h2> 🤳 Connect with me:</h2>
 
