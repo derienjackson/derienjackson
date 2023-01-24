@@ -23,6 +23,9 @@
 
 - [<b>Blog (Mobile)</b>](https://github.com/derienjackson/Blog)
   -  Blog post creation app that utilizes CRUD operations to manage posts saved to JSON server
+
+- [<b>Notebook (CLI App)</b>](https://github.com/derienjackson/Notebook)
+  -  A command line interface application for taking notes that utilizes crud operations to access note data.
  
 <h2> 🤳 Connect with me:</h2>
 
