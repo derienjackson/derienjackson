@@ -3,6 +3,15 @@
 
 <h2> Software Development Projects:</h2>
 
+- [<b>Restaurant Search (Mobile)</b>](https://github.com/derienjackson/RestaurantSearch)
+  -  Searches for restaurants and displays photos of the restaurant once clicked 
+
+- [<b>Blog (Mobile)</b>](https://github.com/derienjackson/Blog)
+  -  Blog post creation app that utilizes CRUD operations to manage posts saved to JSON server
+
+- [<b>Notebook (CLI App)</b>](https://github.com/derienjackson/Notebook)
+  -  A command line interface application for taking notes that utilizes crud operations to access note data.
+
 - [<b>Registration Page</b>](https://github.com/derienjackson/RegistrationPage)
   - Checks for various username, pasword, and date of birth requirements for a login page
   
@@ -18,14 +27,6 @@
 - [<b>Crypto Sorter</b>](https://github.com/derienjackson/CryptoSorter)
   - Checks if items are sorted correctly each time the button is clicked 
 
-- [<b>Restaurant Search (Mobile)</b>](https://github.com/derienjackson/RestaurantSearch)
-  -  Searches for restaurants and displays photos of the restaurant once clicked 
-
-- [<b>Blog (Mobile)</b>](https://github.com/derienjackson/Blog)
-  -  Blog post creation app that utilizes CRUD operations to manage posts saved to JSON server
-
-- [<b>Notebook (CLI App)</b>](https://github.com/derienjackson/Notebook)
-  -  A command line interface application for taking notes that utilizes crud operations to access note data.
  
 <h2> 🤳 Connect with me:</h2>
 
