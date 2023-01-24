@@ -22,7 +22,7 @@
   -  Searches for restaurants and displays photos of the restaurant once clicked 
 
 - [<b>Blog (Mobile)</b>](https://github.com/derienjackson/Blog)
-  -  Blog creation app that utilizes CRUD operations to manage posts saved to JSON server
+  -  Blog post creation app that utilizes CRUD operations to manage posts saved to JSON server
  
 <h2> 🤳 Connect with me:</h2>
 
