@@ -18,9 +18,12 @@
 - [<b>Crypto Sorter</b>](https://github.com/derienjackson/CryptoSorter)
   - Checks if items are sorted correctly each time the button is clicked 
 
-- [<b>Restaurant Search</b>](https://github.com/derienjackson/RestaurantSearch)
+- [<b>Restaurant Search (Mobile)</b>](https://github.com/derienjackson/RestaurantSearch)
   -  Searches for restaurants and displays photos of the restaurant once clicked 
 
+- [<b>Blog (Mobile)</b>](https://github.com/derienjackson/Blog)
+  -  Blog creation app that utilizes CRUD operations
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DerienJackson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
