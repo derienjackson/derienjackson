@@ -12,6 +12,12 @@
 - [<b>Notebook (CLI App)</b>](https://github.com/derienjackson/Notebook)
   -  A command line interface application for taking notes that utilizes crud operations to access note data.
 
+- [<b>TV Review Database</b>](https://github.com/derienjackson/tvdatabase)
+  - A SQL database to store, sort, organize, and retrieve  TV show ratings data
+  
+- [<b>Shop Database</b>](https://github.com/derienjackson/shopdatabase)
+  - A SQL Database for storing customer orders data
+
 - [<b>Registration Page</b>](https://github.com/derienjackson/RegistrationPage)
   - Checks for various username, pasword, and date of birth requirements for a login page
   
