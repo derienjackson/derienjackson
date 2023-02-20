@@ -3,6 +3,9 @@
 
 <h2> Software Development Projects:</h2>
 
+- [<b>Chat App</b>](https://github.com/derienjackson/chatApp)
+  -  Sea 
+
 - [<b>Restaurant Search (Mobile)</b>](https://github.com/derienjackson/RestaurantSearch)
   -  Searches for restaurants and displays photos of the restaurant once clicked 
 
