@@ -2,9 +2,11 @@
 
 
 <h2> Software Development Projects:</h2>
+- [<b>Tracker (Mobile)</b>](https://github.com/derienjackson/tracker)
+  -  A mobile application
 
 - [<b>Chat App</b>](https://github.com/derienjackson/chatApp)
-  -  Sea 
+  -  A web application for continuous communication between multiple users through private chat rooms
 
 - [<b>Restaurant Search (Mobile)</b>](https://github.com/derienjackson/RestaurantSearch)
   -  Searches for restaurants and displays photos of the restaurant once clicked 
