@@ -4,7 +4,7 @@
 <h2> Software Development Projects:</h2>
 
 - [<b>Tracker (Mobile)</b>](https://github.com/derienjackson/tracker)
-  -  A mobile application
+  -  A mobile application that records current location over time and allows the user to track the path taken.
 
 - [<b>Chat App</b>](https://github.com/derienjackson/chatApp)
   -  A web application for continuous communication between multiple users through private chat rooms
